@@ -1,0 +1,10 @@
+G:\Grafica\PRUEBA\TutGame\TutEngine\bin\Debug\TutEngine.dll
+G:\Grafica\PRUEBA\TutGame\TutEngine\bin\Debug\TutEngine.pdb
+G:\Grafica\PRUEBA\TutGame\TutEngine\bin\Debug\OpenTK.dll
+G:\Grafica\PRUEBA\TutGame\TutEngine\bin\Debug\OpenTK.pdb
+G:\Grafica\PRUEBA\TutGame\TutEngine\bin\Debug\OpenTK.xml
+G:\Grafica\PRUEBA\TutGame\TutEngine\obj\Debug\TutEngine.csprojAssemblyReference.cache
+G:\Grafica\PRUEBA\TutGame\TutEngine\obj\Debug\TutEngine.csproj.CoreCompileInputs.cache
+G:\Grafica\PRUEBA\TutGame\TutEngine\obj\Debug\TutEngine.csproj.CopyComplete
+G:\Grafica\PRUEBA\TutGame\TutEngine\obj\Debug\TutEngine.dll
+G:\Grafica\PRUEBA\TutGame\TutEngine\obj\Debug\TutEngine.pdb

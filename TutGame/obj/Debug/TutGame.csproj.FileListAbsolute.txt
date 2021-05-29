@@ -1,0 +1,14 @@
+G:\Grafica\PRUEBA\TutGame\TutGame\obj\Debug\TutGame.csprojAssemblyReference.cache
+G:\Grafica\PRUEBA\TutGame\TutGame\obj\Debug\TutGame.Properties.Resources.resources
+G:\Grafica\PRUEBA\TutGame\TutGame\obj\Debug\TutGame.csproj.GenerateResource.cache
+G:\Grafica\PRUEBA\TutGame\TutGame\obj\Debug\TutGame.csproj.CoreCompileInputs.cache
+G:\Grafica\PRUEBA\TutGame\TutGame\bin\Debug\TutGame.exe.config
+G:\Grafica\PRUEBA\TutGame\TutGame\bin\Debug\TutGame.exe
+G:\Grafica\PRUEBA\TutGame\TutGame\bin\Debug\TutGame.pdb
+G:\Grafica\PRUEBA\TutGame\TutGame\bin\Debug\TutEngine.dll
+G:\Grafica\PRUEBA\TutGame\TutGame\bin\Debug\TutEngine.pdb
+G:\Grafica\PRUEBA\TutGame\TutGame\bin\Debug\OpenTK.pdb
+G:\Grafica\PRUEBA\TutGame\TutGame\bin\Debug\OpenTK.xml
+G:\Grafica\PRUEBA\TutGame\TutGame\obj\Debug\TutGame.csproj.CopyComplete
+G:\Grafica\PRUEBA\TutGame\TutGame\obj\Debug\TutGame.exe
+G:\Grafica\PRUEBA\TutGame\TutGame\obj\Debug\TutGame.pdb
